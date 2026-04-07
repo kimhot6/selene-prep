@@ -1,0 +1,4 @@
+ERROR: disk full
+INFO: ok
+ERROR: timeout
+INFO: done

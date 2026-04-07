@@ -1,0 +1,13 @@
+FAIL: test_replace (TestStringUtils)
+AssertionError: expected 'abc' but got 'ab'
+
+PASS: test_split (TestStringUtils)
+
+FAIL: test_join (TestStringUtils)
+NullPointerException at StringUtils.java:142
+
+PASS: test_trim (TestStringUtils)
+PASS: test_isEmpty (TestStringUtils)
+
+FAIL: test_capitalize (TestStringUtils)
+IndexOutOfBoundsException at StringUtils.java:89
