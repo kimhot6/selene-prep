@@ -1,0 +1,9 @@
+project,bug_id,tool,top1,top5,suspiciousness,rank
+Lang,1,AutoFL,True,True,0.92,1
+Lang,2,AutoFL,False,True,0.67,2
+Lang,3,AutoFL,True,True,0.88,3
+Math,1,AutoFL,True,True,0.85,4
+Math,5,AutoFL,False,True,0.45,5
+Math,10,AutoFL,False,False,0.12,6
+Chart,1,AutoFL,True,True,0.95,7
+Chart,3,AutoFL,False,True,0.71,8

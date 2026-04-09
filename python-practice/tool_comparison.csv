@@ -1,0 +1,9 @@
+Project,Bug,AutoFL,Ochiai,Winner
+Chart,1,✓,✓,Both
+Chart,3,✗,✗,Neither
+Lang,1,✓,✓,Both
+Lang,2,✗,✗,Neither
+Lang,3,✓,✗,AutoFL
+Math,1,✓,✗,AutoFL
+Math,5,✗,✗,Neither
+Math,10,✗,✗,Neither

@@ -1,6 +1,0 @@
-project,bug_id,top1,top5,score
-Lang,1,True,True,0.92
-Lang,2,False,True,0.67
-Math,1,True,True,0.88
-Math,5,False,False,0.23
-Chart,1,True,True,0.95
